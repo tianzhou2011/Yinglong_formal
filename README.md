@@ -6,6 +6,8 @@ The training main file is ```pretrain/main.py```.
 
 The model file is ```lit_gpt/model.py```.
 
+A sample model configuration is provided as ```configs/tiny.yaml```.
+
 A sample training script is
 ```
 fabric run model \
