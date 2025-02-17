@@ -1,4 +1,4 @@
-This Repo contain the sample codes for "Output Scaling: YingLong - Delayed Chain of Thought in a Large Pretrained Time Series Forecasting Model".
+This Repo contains the sample codes for "Output Scaling: YingLong - Delayed Chain of Thought in a Large Pretrained Time Series Forecasting Model".
 
 The dataset preprocessing code is in ```prepare_data.py```.
 
